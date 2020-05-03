@@ -303,7 +303,6 @@ h1, h2, h3, h5 {
 }
 
 .planets-container {
-    height: 100vh;
     background: url("../images/planets-background.jpg") no-repeat top fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
