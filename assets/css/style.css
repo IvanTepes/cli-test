@@ -259,14 +259,12 @@ h1, h2, h3, h5 {
 
 
 .planets--container {
-    height: 100vh;
     background: url("../images/planets-background.jpg") no-repeat top fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
     background-size: cover;
     display: flex;
-    align-items: center;
     justify-content: center;
     position: relative;
 }
@@ -302,16 +300,7 @@ h1, h2, h3, h5 {
     border-radius: 30px;
 }
 
-.planets-container {
-    background: url("../images/planets-background.jpg") no-repeat top fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    position: relative;
-}
+
 
 ul {
     color: white;
